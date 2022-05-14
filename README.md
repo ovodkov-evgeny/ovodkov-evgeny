@@ -36,4 +36,4 @@
 ## 🤯 GitHub Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ovodkov-evgeny)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ovodkov-evgeny&exclude_repo=1439277-technomart-28,init,fdf,pulse_web_project,common-words,AuthorizationVK,GNL,Lessons,iOS_Learning_Projects&hide=php,objective-c&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ovodkov-evgeny&exclude_repo=1439277-technomart-28,init,fdf,pulse_web_project,common-words,GNL,Lessons,iOS_Learning_Projects&hide=php,objective-c,c&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
