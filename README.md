@@ -1,4 +1,4 @@
-# Всем привет, меня зовут Женя (👋💻🏀🏖)
+# Всем привет, меня зовут Женя 👋
 
 ![](https://komarev.com/ghpvc/?username=ovodkov-evgeny)
 
@@ -6,7 +6,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/fransys_k/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Kefir4ek)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&size=24&duration=3000&color=14AC15&lines=%D0%AF+%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D0%B9+%D1%84%D1%80%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D0%B4%D0%B5%D1%80+;%D0%9B%D1%8E%D0%B1%D0%BB%D1%8E+streetball...;%D0%98+%D0%BF%D1%83%D1%82%D0%B5%D1%88%D0%B5%D1%81%D1%82%D0%B2%D0%B8%D1%8F!;Nice+to+e-meet+you+%F0%9F%99%82)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&size=24&duration=3000&color=14AC15&lines=%D0%AF+%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D0%B9+%D1%84%D1%80%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D0%B4%D0%B5%D1%80+%F0%9F%92%BB;%D0%9B%D1%8E%D0%B1%D0%BB%D1%8E+streetball+%F0%9F%8F%80;%D0%98+%D0%BF%D1%83%D1%82%D0%B5%D1%88%D0%B5%D1%81%D1%82%D0%B2%D0%B8%D1%8F+%F0%9F%8F%9D;Nice+to+e-meet+you+%F0%9F%99%82)](https://git.io/typing-svg)
 
 
 * 👨‍💻 Хочу писать чистый читаемый код
