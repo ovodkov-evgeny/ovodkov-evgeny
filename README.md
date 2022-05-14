@@ -16,6 +16,8 @@
 🥴 Странный факт обо мне: Всегда ем макароны с хлебом!
 
 
+
+
 ## 🛠 Tech Stack
 
 ![Logo](https://cdn.icon-icons.com/icons2/2107/PNG/48/file_type_js_official_icon_130509.png)
@@ -28,6 +30,8 @@
 ![Logo](https://cdn.icon-icons.com/icons2/2415/PNG/48/mongodb_plain_wordmark_logo_icon_146423.png)
 ![Logo](https://cdn.icon-icons.com/icons2/2415/PNG/48/git_original_wordmark_logo_icon_146510.png)
 ![Logo](https://cdn.icon-icons.com/icons2/2107/PNG/48/file_type_vscode_icon_130084.png)
+
+
 
 
 ## 🤯 GitHub Stats
